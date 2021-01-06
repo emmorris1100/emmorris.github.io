@@ -9,6 +9,8 @@
 
 ![Geisel Library](https://cdn.theculturetrip.com/wp-content/uploads/2017/06/geisel-library-1024x764.jpg "Geisel Library")
 
+[Temp README.md](./README.md)
+
 ```markdown
 "I'm not entirely sure what I'm doing here- wait no don't quote that."
 ```
@@ -23,6 +25,24 @@
 \*\*\* \~ ~~The power of escape characters~~ \~ \*\*\*
 
 *So this is where Discord got its syntax...*
+
+### Top Three Numbers:
+1. Zero
+  - Best number 10/10
+    - Or 0/10
+      - Which way are we numbering these?
+2. One
+3. Two
+
+- [x] Headings
+- [x] Styling Text
+- [x] Quoting Text
+- [x] Quoting Code
+- [x] Links
+- [x] Section Links
+- [x] Relative Links
+- [x] Lists
+- [ ] Task Lists
 
 [Top](https://github.com/emmorris1100/emmorris.github.io/blob/gh-pages/index.md#welcome-to-my-page)
 
