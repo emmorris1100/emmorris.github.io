@@ -2,7 +2,7 @@
 
 ### Elizabeth Morris; 3rd year [UCSD](https://www.ucsd.edu/) CSE student; creative writing minor
 
-Experienced in:
+#### Experienced in:
 - Java
 - C++
 - Python
@@ -16,11 +16,15 @@ Experienced in:
 > We have been reminded that that is not how you are supposed to quote text.
 > :/
 
+> `Quoted code example`
+
 **I promise this will be updated to be serious later.**
 
-\*\*\* \~ The power of escape characters \~ \*\*\*
+\*\*\* \~ ~~The power of escape characters~~ \~ \*\*\*
 
 *So this is where Discord got its syntax...*
+
+# Section 2!
 
 <!-- ## Welcome to GitHub Pages
 
