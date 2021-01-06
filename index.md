@@ -24,7 +24,7 @@
 
 *So this is where Discord got its syntax...*
 
-# Section 2!
+[Top](https://github.com/emmorris1100/emmorris.github.io/blob/gh-pages/index.md#welcome-to-my-page)
 
 <!-- ## Welcome to GitHub Pages
 
