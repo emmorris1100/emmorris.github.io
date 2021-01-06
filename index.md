@@ -1,4 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
+
+### Elizabeth Morris; 3rd year [UCSD](https://www.ucsd.edu/) CSE student; creative writing minor
+
+Experienced in:
+- Java
+- C++
+- Python
+
+![Geisel Library](https://cdn.theculturetrip.com/wp-content/uploads/2017/06/geisel-library-1024x764.jpg "Geisel Library")
+
+```markdown
+"I'm not entirely sure what I'm doing here- wait no don't quote that."
+```
+
+> We have been reminded that that is not how you are supposed to quote text.
+> :/
+
+**I promise this will be updated to be serious later.**
+
+\*\*\* \~ The power of escape characters \~ \*\*\*
+
+*So this is where Discord got its syntax...*
+
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/emmorris1100/emmorris.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +58,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
